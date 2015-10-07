@@ -1,5 +1,5 @@
 # chordbot
-This is a node.js bot that automatically generates chord progressions, and tweets them to once per day.
+This is a node.js bot that automatically generates chord progressions, and tweets them once per day.
 
 Node.js is required to run this program.
 
